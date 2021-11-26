@@ -14,7 +14,7 @@ I work as Analyst Developer Front-End, with experience in Angular and Javascript
 
 - :office_worker: Developer Front-End Senior
 - :brazil: I'm From Brazil 
-- :purple_heart::heart: Angular, React JavaScript!
+- :purple_heart::heart: Angular, React, JavaScript!
 - I’m currently learning React and NodeJS
 
 **Languages and Tools**  
