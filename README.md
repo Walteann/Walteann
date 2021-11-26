@@ -12,9 +12,9 @@
 I am a computer scientist by profession and developer by passion.
 I work as Analyst Developer Front-End, with experience in Angular and Javascript.
 
-- :office_worker: Analyst Developer Front-End Senior
+- :office_worker: Developer Front-End Senior
 - :brazil: I'm From Brazil 
-- :purple_heart::heart: Angular, JavaScript!
+- :purple_heart::heart: Angular, React JavaScript!
 - I’m currently learning React and NodeJS
 
 **Languages and Tools**  
