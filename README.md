@@ -13,7 +13,6 @@ I am a computer scientist by profession and developer by passion.
 I work as Analyst Developer Front-End, with experience in Angular and Javascript.
 
 <div>
-  <a href="https://github.com/camilams27">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walteann&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteann&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
