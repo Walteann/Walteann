@@ -12,6 +12,12 @@
 I am a computer scientist by profession and developer by passion.
 I work as Analyst Developer Front-End, with experience in Angular and Javascript.
 
+<div>
+  <a href="https://github.com/camilams27">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walteann&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteann&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
 - :office_worker: Developer Front-End Senior
 - :brazil: I'm From Brazil 
 - :purple_heart::heart: Angular, React, NodeJS, JavaScript!
@@ -36,12 +42,3 @@ I work as Analyst Developer Front-End, with experience in Angular and Javascript
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=walteann&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
-
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteann&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
