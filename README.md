@@ -21,6 +21,9 @@ I work as Analyst Developer Front-End, with experience in Angular and Javascript
 - I'm From Brazil 
 - Angular, React, NodeJS, JavaScript, Flutter!
 
+Medium
+[Organizando Imports no Angular / TypeScript](https://medium.com/@walteann/organizando-imports-no-angular-typescript-7b181bfcd240)
+
 **Languages and Tools**  
 
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular"></code>
