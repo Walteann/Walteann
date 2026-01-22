@@ -10,14 +10,14 @@
 
 **Happy to see you here!**, My name is Walteann Costa. 
 I am a computer scientist by profession and developer by passion.
-I work as Analyst Developer Front-End, with experience in Angular and Javascript.
+I work as Specialist Front-End, with experience in Angular and Javascript.
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walteann&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteann&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-- :office_worker: Developer Front-End Senior
+- :office_worker: Specialist Front-End Senior
 - I'm From Brazil 
 - Angular, React, NodeJS, JavaScript, Flutter!
 
